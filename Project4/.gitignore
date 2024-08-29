@@ -1,0 +1,5 @@
+    build/
+    dist/
+    proceso.egg-info/
+    proceso/__pycache__/
+    /seoul.csv/
